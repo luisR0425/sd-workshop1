@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/distribuidos/Desktop/practica1/Luis/chef","disabled":false,"__vagrantfile":true},"v-csc-25c2f2f28":{"id":"v-csc-25c2f2f28","guestpath":"/tmp/vagrant-chef/db2d1a07bb7bb0a759655f9374ca2c91/cookbooks","hostpath":"/home/distribuidos/Desktop/practica1/Luis/chef/cookbooks","disabled":false,"__vagrantfile":true}}}
